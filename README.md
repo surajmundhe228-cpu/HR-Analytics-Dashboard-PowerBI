@@ -1,44 +1,51 @@
-# HR Analytics Dashboard (Power BI) 📊
+# 📊 HR Analytics Dashboard (Power BI)
 
-This project is an **HR Analytics Dashboard** built using Power BI.  
-It provides insights into employee data, attrition trends, and workforce performance.
+This project is a **Power BI Dashboard** designed to analyze employee data and provide insights into attrition, workforce demographics, and salary trends.  
+It helps HR professionals and management make **data-driven decisions** regarding employee retention, performance, and resource planning.
 
 ---
 
 ## 🚀 Features
-- KPIs: Total Employees, Attrition Count, Attrition Rate, Avg Age, Avg Tenure, Avg Salary  
-- Attrition Analysis by Department, Gender, and Job Role  
-- Age Distribution Histogram  
-- Salary Bands vs Attrition Rate  
-- Interactive filters for departments & roles  
+- KPIs: Total Employees, Total Attrition, Attrition Rate, Avg Age, Avg Tenure, Avg Salary  
+- Attrition breakdown by **Department, Gender, and Age Group**  
+- Trend analysis for employee turnover  
+- Interactive slicers and filters for deeper insights  
+
+---
+
+## 📷 Dashboard Preview
+
+### Screenshot 1  
+![Dashboard Screenshot 1](https://github.com/<surajmundhe228-cpu>/<HR-Analytics-Dashboard-PowerBI>/blob/main/Screenshot%202025-08-30%20223845.png)
+
+### Screenshot 2  
+![Dashboard Screenshot 2](https://github.com/<surajmundhe228-cpu>/<HR-Analytics-Dashboard-PowerBI>/blob/main/Screenshot%202025-08-30%20223923.png)
 
 ---
 
 ## 📂 Project Structure
-- **data/** → Sample dataset (CSV/Excel)  
-- **dashboard/** → Power BI file (`.pbix`) + dashboard screenshot  
-- **docs/** → Documentation and layout images  
+
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](Screenshot-2025-08-30-223845.png)
-![Dashboard](Screenshot-2025-08-30-223945.png)
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**
+- **Excel/CSV dataset** (employee data)
+- **DAX** for calculated columns & measures
 
 ---
 
-## ⚙️ Tools Used
-- **Power BI** for dashboard design  
-- **Excel/CSV** for dataset  
-- **GitHub** for version control & sharing  
+## 📈 Insights Gained
+- Departments with the **highest attrition**  
+- Impact of **salary** and **tenure** on employee retention  
+- Gender and age-based attrition patterns  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Fork this repo and submit a pull request.
 
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👩‍💻 Author
-Suraj
-2nd Year Computer Science & Design Student  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
