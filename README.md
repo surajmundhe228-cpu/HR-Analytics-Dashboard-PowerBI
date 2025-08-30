@@ -22,7 +22,8 @@ It provides insights into employee data, attrition trends, and workforce perform
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard/HR_Dashboard.png)
+![Dashboard](Screenshot-2025-08-30-223845.png)
+![Dashboard](Screenshot-2025-08-30-223945.png)
 
 ---
 
