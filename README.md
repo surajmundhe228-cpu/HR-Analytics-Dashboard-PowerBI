@@ -15,12 +15,7 @@ It helps HR professionals and management make **data-driven decisions** regardin
 
 ## 📷 Dashboard Preview
 
-### Screenshot 1  
-![Dashboard Screenshot 1](https://github.com/<surajmundhe228-cpu>/<HR-Analytics-Dashboard-PowerBI>/blob/main/Screenshot%202025-08-30%20223845.png)
-
-### Screenshot 2  
-![Dashboard Screenshot 2](https://github.com/<surajmundhe228-cpu>/<HR-Analytics-Dashboard-PowerBI>/blob/main/Screenshot%202025-08-30%20223923.png)
-
+![Dashboard Screenshot](Screenshot%202025-08-30%223845.png)
 ---
 
 ## 📂 Project Structure
